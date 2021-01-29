@@ -1,0 +1,1 @@
+Testing google fire base with signInWithPopup 
